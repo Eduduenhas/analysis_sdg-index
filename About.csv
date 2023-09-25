@@ -1,0 +1,38 @@
+Online database for the Sustainable Development Report 2022,,
+,,
+This database contains the following information:,,
+Overview,"Overall results for all countries, including index score, goal dashboard, and trend dashboard for all indicators and goals",
+Codebook,"List of indicators, bounds and thresholds",
+SDR2022 Data,"The SDR2022 data for all countries; includes spillover score, raw values, normalized scores, dashboard ratings, trends & goal scores.",
+Raw Data,Raw data for all countries by indicator,
+Data for Trends,Panel data used for generating trend analysis,
+Backdated SDG Index,"The SDG Index Score, and all goal and indicator scores, retroactively calculated across time using time series data that was carried forward in years with missing data.",
+,,
+Legend,,
+Dashboard : ,,
+,green,Goal Achievement
+,yellow,Challenges remain
+,orange,Significant challenges
+,red,Major challenges
+,grey,Insufficient data
+Time Series :,,
+,↑,On track or maintaining achievement
+,➚,Moderately Increasing
+,→,Stagnating
+,↓,Decreasing
+,,
+,,"This data should be cited as:  Sachs, J., Lafortune, G., Kroll, C., Fuller, G., Woelm, F., (2022). From Crisis to Sustainable Development: the SDGs as Roadmap to 2030 and Beyond. Sustainable Development Report 2022. Cambridge: Cambridge University Press."
+,,
+,,LICENSE
+,This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. ,
+,"To view a copy of this license, please visit http://creativecommons.org/licenses/by/4.0/",
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,"Reference and Citation :  Sachs, J., Lafortune, G., Kroll, C., Fuller, G., Woelm, F., (2022). From Crisis to Sustainable Development: the SDGs as Roadmap to 2030 and Beyond. Sustainable Development Report 2022. Cambridge: Cambridge University Press.",
